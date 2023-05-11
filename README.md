@@ -7,6 +7,8 @@
 
 [![Author](https://img.shields.io/badge/author-JaqueDreyer-ffee58?style=flat-square)](https://github.com/jaquedreyer)
 ![Language](https://img.shields.io/badge/language-Kotlin-ffee58?style=flat-square)
+[![License](https://img.shields.io/github/license/jaquedreyer/lemonade-app.svg)](LICENSE)
+
 
 > When life gives you lemons, make lemonade!
 
@@ -27,3 +29,4 @@ This is my first independent project for [Android Basics in Kotlin](https://deve
 
 
 
+Copyright 2021 The Android Open Source Project
