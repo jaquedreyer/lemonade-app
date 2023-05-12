@@ -7,7 +7,7 @@
 
 [![Author](https://img.shields.io/badge/author-JaqueDreyer-ffee58?style=flat-square)](https://github.com/jaquedreyer)
 ![Language](https://img.shields.io/badge/language-Kotlin-ffee58?style=flat-square)
-[![License](https://img.shields.io/github/license/jaquedreyer/lemonade-app.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/jaquedreyer/lemonade-app.svg?color=%23ffee58&style=flat-square)](LICENSE)
 
 
 > When life gives you lemons, make lemonade!
